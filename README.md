@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi there, I'm Nguyễn Đức Tú - chalalost
 
-<!--
-**chalalost/chalalost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 **Full-Stack Developer** specializing in ReactJS, TypeScript, and .NET.  
+📱 Currently exploring **React Native** for mobile app development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 Featured Skills
+- **Frontend:** ReactJS, React Native, TypeScript, Ant Design, Bootstrap
+- **Backend:** .NET Core, Microservices
+- **Tools:** Git, NUnit, Firebase
+
+---
+
+### 📫 How to reach me!
+- [LinkedIn](https://www.linkedin.com/in/chalalost/)
