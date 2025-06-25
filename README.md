@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Nguyễn Đức Tú - chalalost
+## 👋 Hi there, I'm Nguyễn Đức Tú
 
 ---
 
